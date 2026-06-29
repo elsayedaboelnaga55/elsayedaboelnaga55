@@ -104,8 +104,6 @@
 
 ### ⭐ Keep Learning • Keep Testing • Keep Growing ⭐
 
-> 🐍 Snake Animation يحتاج ملف GitHub Action إضافي.
-
 </div>
 
 
