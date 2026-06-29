@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Elsayed Aboelnaga 👋
 
-<!--
-**elsayedaboelnaga55/elsayedaboelnaga55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Automation Test Engineer
 
-Here are some ideas to get you started:
+### Skills
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+- Rest Assured
+- API Testing
+- POM Design Pattern
+- Allure Reports
+- Git & GitHub
+- Jenkins (Learning)
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### Swag Labs Automation
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- Allure Report
+- Log4j
+- Extent Reports
+
+### ParaBank Automation
+- UI Automation
+- Data Driven Testing
+- Page Object Model
+
+---
+
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/elsayed-aboelnaga99/
+- GitHub: https://github.com/elsayedaboelnaga55
+- Email: elsayedaboelnaga55@gmail.com
+- ضع الإيميل
