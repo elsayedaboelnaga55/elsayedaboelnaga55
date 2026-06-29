@@ -41,4 +41,3 @@
 - LinkedIn: https://www.linkedin.com/in/elsayed-aboelnaga99/
 - GitHub: https://github.com/elsayedaboelnaga55
 - Email: elsayedaboelnaga55@gmail.com
-- ضع الإيميل
