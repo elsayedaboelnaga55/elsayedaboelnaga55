@@ -2,13 +2,13 @@
 
 <div align="center">
 
-## 🚀 Automation Test Engineer
+## 🚀 Manual & Automation QA Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Automation+QA+Engineer;Java+Developer;Selenium+WebDriver;TestNG+%7C+Maven;REST+Assured+API+Testing;Page+Object+Model;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Manual+%26+Automation+QA+Engineer;Web+%26+Mobile+Testing;Java+%7C+Selenium+WebDriver;TestNG+%7C+Maven;REST+Assured+API+Testing;SQL+%7C+Postman;Always+Learning+New+Technologies"/>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-![](https://komarev.com/ghpvc/?username=elsayedaboelnaga55&style=for-the-badge&color=0e75b6)
+![](https://komarev.com/ghpvc/?username=elsayedaboelnaga55\&style=for-the-badge\&color=0e75b6)
 
 </div>
 
@@ -16,19 +16,23 @@
 
 # 💫 About Me
 
-- 💼 Automation Test Engineer
-- ☕ Java
-- 🤖 Selenium WebDriver
-- 🧪 TestNG
-- 🌐 REST Assured
-- 📦 Maven
-- 🗄 SQL
-- 📄 Allure Reports
-- 📝 Log4j
-- 🔧 Git & GitHub
-- 🏗 Page Object Model (POM)
-- 📊 Data Driven Testing
-- 🌱 Currently learning Jenkins & CI/CD
+* 💼 Manual & Automation QA Engineer
+* 🧪 Manual Testing (Web, Mobile & Admin Panel)
+* 🤖 Automation Testing with Selenium WebDriver
+* ☕ Java
+* 🧪 TestNG
+* 📦 Maven
+* 🌐 REST Assured API Testing
+* 📬 Postman
+* 🗄 SQL Server
+* 📄 Allure Reports
+* 📝 Log4j
+* 🔧 Git & GitHub
+* 🏗 Page Object Model (POM)
+* 📊 Data-Driven Testing
+* 🐞 Jira & Zephyr Scale
+* 📈 Apache JMeter
+* 🌱 Currently learning Jenkins & CI/CD
 
 ---
 
@@ -39,9 +43,13 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Manual_Testing-0052CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestNG-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/>
 <img src="https://img.shields.io/badge/Allure-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jenkins-Learning-D24939?style=for-the-badge&logo=jenkins"/>
 </p>
@@ -50,23 +58,47 @@
 
 # 🚀 Featured Projects
 
-## 🛒 SwagLabs Automation
-- Java
-- Selenium
-- TestNG
-- Maven
-- POM
-- Allure Reports
+## 🛒 SwagLabs Automation Framework
 
-## 🏦 ParaBank Automation
-- UI Automation
-- Selenium
-- Assertions
+* Selenium WebDriver
+* Java
+* TestNG
+* Maven
+* Page Object Model (POM)
+* Data-Driven Testing
+* Allure Reports
+* Log4j
+
+---
+
+## 🏦 ParaBank Automation Framework
+
+* UI Automation
+* Selenium WebDriver
+* TestNG
+* Assertions
+* Reusable Framework
+
+---
 
 ## 🌐 REST API Automation
-- REST Assured
-- JSON Validation
-- API Testing
+
+* REST Assured
+* Postman
+* JSON Validation
+* API Testing
+* Request Chaining
+
+---
+
+## 🛍 Manual Testing – Gazara Grocery Store
+
+* Web Testing
+* Mobile Testing
+* Admin Panel Testing
+* Test Case Design
+* Bug Reporting
+* Jira & Zephyr Scale
 
 ---
 
@@ -91,7 +123,7 @@
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/elsayed-aboelnaga99/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
@@ -102,8 +134,7 @@
 
 <div align="center">
 
-### ⭐ Keep Learning • Keep Testing • Keep Growing ⭐
+### ⭐ Manual Testing • Automation Testing • API Testing • Keep Learning ⭐
 
 </div>
-
 
